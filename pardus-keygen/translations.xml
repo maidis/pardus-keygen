@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<PISI>
+    <Source>
+        <Name>pardus-keygen</Name>
+        <Summary xml:lang="tr">Pardus için bir lisans anahtar üreteci</Summary>
+        <Description xml:lang="tr">pardus-keygen, Pardus'u tam sürüm olarak kullanmanız için ürün lisans anahtarı üreten iyi tasarlanmış bir uygulamadır.</Description>
+    </Source>
+</PISI>

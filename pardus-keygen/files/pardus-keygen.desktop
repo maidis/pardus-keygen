@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Encoding=UTF-8
+Name=Pardus Keygen
+GenericName=Pardus Key Generator
+GenericName[tr]=Pardus Anahtar Üreteci
+Comment=A license key generator for Pardus
+Comment[tr]=Pardus için bir lisans anahtar üreteci
+Icon=pardus-keygen
+Exec=pardus-keygen
+Terminal=false
+StartupNotify=true
+Categories=Application;Utility;
