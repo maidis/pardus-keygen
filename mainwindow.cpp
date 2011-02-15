@@ -13,7 +13,7 @@ MainWindow::MainWindow(QWidget *parent) :
     // http://www.google.com.tr/search?hl=tr&q=qt+resource+phonon
     Phonon::MediaObject *music =
         Phonon::createPlayer(Phonon::MusicCategory,
-                             Phonon::MediaSource("/home/maidis/hede.xm"));
+                             Phonon::MediaSource("/usr/share/pardus-keygen/hede.xm"));
     music->play();
 }
 
