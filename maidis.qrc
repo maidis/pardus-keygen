@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/maidis">
+        <file alias="arkaplan">arkaplan.png</file>
+        <file alias="ciksari">application-exit.png</file>
+    </qresource>
+</RCC>
