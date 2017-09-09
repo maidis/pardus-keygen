@@ -4,7 +4,7 @@
 
 ![http://i.imgur.com/ZsJcj.png](http://i.imgur.com/ZsJcj.png)
 
-**NOTE:** PiSiYaP is no longer being actively developed. Please obtain your product keys in a different way.
+**NOTE:** pardus-keygen is no longer being actively developed. Please obtain your product keys in a different way.
 
 ## Installation ##
 ```
