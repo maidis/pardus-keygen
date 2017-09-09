@@ -9,7 +9,7 @@
 ## Installation ##
 ```
 sudo pisi it -c system.devel
-sudo pisi bi http://pardus-keygen.googlecode.com/svn/trunk/pardus-package/pspec.xml
+sudo pisi bi https://github.com/maidis/pardus-keygen/raw/master/pardus-package/pspec.xml
 sudo pisi it pardus-keygen*.pisi
 ```
 
